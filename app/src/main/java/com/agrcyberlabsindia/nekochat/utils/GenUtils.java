@@ -9,6 +9,9 @@ import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 
+import com.agrcyberlabsindia.nekochat.ui.dashboard.HomeActivity;
+import com.agrcyberlabsindia.nekochat.ui.dashboard.MessageActivity;
+import com.agrcyberlabsindia.nekochat.ui.dashboard.ProfileActivity;
 import com.google.android.material.snackbar.Snackbar;
 
 public class GenUtils {
